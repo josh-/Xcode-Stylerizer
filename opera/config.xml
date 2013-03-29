@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" version="1.0">
+    <name>Xcode Stylerizer</name>
+    <description>Correctly styles all occurences of 'Xcode'.</description>
+    <author href="http://joshparnham.com">Josh Parnham</author>
+    <access origin="*" subdomains="true" />
+</widget>

@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Xcode Stylerizer",
+	"version": "1.0",
+	"description": "Correctly styles all occurences of 'Xcode'.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
