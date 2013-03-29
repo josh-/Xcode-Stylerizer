@@ -8,9 +8,9 @@ Script based off [@panicsteve](https://github.com/panicsteve)'s ["clout-to-but"]
 Google Chrome
 ------------
 
-1. [Download the crx](http://joshparnham.com/downloads/Xcode-Stylerizer-Chrome.crx)
+1. [Download the .crx](http://joshparnham.com/downloads/Xcode-Stylerizer-Chrome.crx)
 2. Open Chrome's [extension page](chrome://extensions)
-3. Drag Xcode-Stylerizer-Chrome.crx onto the window
+3. Drag `Xcode-Stylerizer-Chrome.crx` onto the window
 
 Safari
 ------------
