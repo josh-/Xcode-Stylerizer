@@ -1,4 +1,4 @@
-Xcode Styleriezer
+Xcode Stylerizer
 =============
 
 Collection of browser extensions that style every occurrence of `Xcode` correctly (say goodbye to `xCode`, `XCode`, etc).
